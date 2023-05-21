@@ -1,4 +1,4 @@
-(** * Métodos Formais - Lista de Exercícios 3 
+(** * Métodos Formais - Lista de Exercícios 2 
  Não importar nenhum outro módulo.
 
 NOME: Daniella Martins Vasconcellos *)
