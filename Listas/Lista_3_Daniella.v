@@ -127,5 +127,5 @@ Proof.
       + inversion H0. 
       + intros. simpl in H0. simpl in H. destruct H0 as [h' | a']. destruct H as [ah' ha']. 
           rewrite <- h'. apply ah'.
-        * apply IHy. destruct H as [ariel tiama]. apply tiama. apply a'. 
+* apply IHy. destruct H as [dan vasco]. apply dan. apply a'. 
   Qed.
